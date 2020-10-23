@@ -1,10 +1,11 @@
 # OAuth Mailing Service
 
-***an API in NodeJS using express to send emails using the Gmail REST API***
+***An API in NodeJS using express to send emails using the Gmail REST API***
 
 
 > This repository contains server side code and is completely runs on terminal/command line
 
+***
 
 ## This Application contains the following: 
 
@@ -13,6 +14,7 @@
 - Have an API endpoint to execute send email using the credentials previously stored.
 - Include appropriate comments in your code on how to use the APIs written by you.
 
+***
 
 ## Tech Stack Involved
 
@@ -22,15 +24,10 @@
 
 ## Project Structure
 
-├── createMail.js
+├── createMail.js </br>
+├── credentials.json </br>
+├── index.js </br>
+├── package.json </br>
+├── package-lock.json </br>
 
-├── credentials.json
-
-├── index.js
-
-├── package.json
-
-├── package-lock.json
-
-└── README.md
-
+***
